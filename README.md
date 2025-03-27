@@ -3,20 +3,15 @@
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=andreyhauryk.com&url=https%3A%2F%2Fandreyhauryk.com)](https://andreyhauryk.com)
 [![](https://img.shields.io/badge/-@andreyhauryk-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/andreyhauryk/)
 
-<table >
-    <td >
-      💻 𝑺𝒆𝒂𝒔𝒐𝒏𝒆𝒅 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗<br>
-      𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒂𝒕 𝒕𝒉𝒆 𝒆𝒅𝒈𝒆 𝒐𝒇 𝑾𝒆𝒃3<br>
-      🛠 𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙯𝙞𝙣𝙜 𝙞𝙣 𝙨𝙢𝙖𝙧𝙩 𝙘𝙤𝙣𝙩𝙧𝙖𝙘𝙩 𝙞𝙣𝙩𝙚𝙜𝙧𝙖𝙩𝙞𝙤𝙣<br>
-      ⚡ 𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝑺𝒐𝒍𝒊𝒅𝒊𝒕𝒚, 𝑬𝑻𝑯 𝑺𝑫𝑲𝒔<br>
-      🚀 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒕𝒉𝒆 𝒏𝒆𝒙𝒕 𝒈𝒆𝒏𝒆𝒓𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝒄𝒆𝒏𝒕𝒓𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏-𝒓𝒆𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑼𝑰/𝑼𝑿
-    </td>
-    <td >
-      <img src="https://raw.githubusercontent.com/andrey-hauryk/andrey-hauryk/refs/heads/main/assets/pink-panther.gif" alt="Pink Panther" style="max-width: 100%; border: none;">
-    </td>
-</table>
+💻 𝑺𝒆𝒂𝒔𝒐𝒏𝒆𝒅 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗<br>
+𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒂𝒕 𝒕𝒉𝒆 𝒆𝒅𝒈𝒆 𝒐𝒇 𝑾𝒆𝒃3<br>
+🛠 𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙯𝙞𝙣𝙜 𝙞𝙣 𝙨𝙢𝙖𝙧𝙩 𝙘𝙤𝙣𝙩𝙧𝙖𝙘𝙩 𝙞𝙣𝙩𝙚𝙜𝙧𝙖𝙩𝙞𝙤𝙣<br>
+⚡ 𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝑺𝒐𝒍𝒊𝒅𝒊𝒕𝒚, 𝑬𝑻𝑯 𝑺𝑫𝑲𝒔<br>
+🚀 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒕𝒉𝒆 𝒏𝒆𝒙𝒕 𝒈𝒆𝒏𝒆𝒓𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝒄𝒆𝒏𝒕𝒓𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏-𝒓𝒆𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑼𝑰/𝑼𝑿
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+<img src="https://raw.githubusercontent.com/andrey-hauryk/andrey-hauryk/refs/heads/main/assets/pink-panther.gif" alt="Pink Panther" align="right"/>
+
+### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -51,5 +46,31 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Andrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrey-hauryk&show_icons=true&theme=dracula)
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andrey-hauryk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrey-hauryk&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+If you're still here, here's my favorite gif/music video:
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
+
+
+https://github.com/Giingu
 
