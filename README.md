@@ -1,12 +1,20 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Andrey Hauryk
+# 𝙷𝙴𝙻𝙻𝙾 𝙸'𝙼 𝙰𝙽𝙳𝚁𝙴𝚈 𝙷𝙰𝚄𝚁𝚈𝙺
+[![](https://img.shields.io/badge/-@andreyhauryk-%23000000?style=flat-square&logo=github)](https://github.com/andrey-hauryk)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=andreyhauryk.com&url=https%3A%2F%2Fandreyhauryk.com)](https://andreyhauryk.com)
+[![](https://img.shields.io/badge/-@andreyhauryk-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/andreyhauryk/)
 
-💻 𝑺𝒆𝒂𝒔𝒐𝒏𝒆𝒅 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗 | 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒂𝒕 𝒕𝒉𝒆 𝒆𝒅𝒈𝒆 𝒐𝒇 𝑾𝒆𝒃3
-
-🛠 𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙯𝙞𝙣𝙜 𝙞𝙣 𝙨𝙢𝙖𝙧𝙩 𝙘𝙤𝙣𝙩𝙧𝙖𝙘𝙩 𝙞𝙣𝙩𝙚𝙜𝙧𝙖𝙩𝙞𝙤𝙣, 𝙀𝙏𝙃 𝙖𝙪𝙩𝙝𝙚𝙣𝙩𝙞𝙘𝙖𝙩𝙞𝙤𝙣, 𝙖𝙣𝙙 𝙚𝙛𝙛𝙞𝙘𝙞𝙚𝙣𝙩 𝙤𝙣-𝙘𝙝𝙖𝙞𝙣/𝙤𝙛𝙛-𝙘𝙝𝙖𝙞𝙣 𝙙𝙖𝙩𝙖 𝙛𝙡𝙤𝙬𝙨.
-
-⚡ 𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝑺𝒐𝒍𝒊𝒅𝒊𝒕𝒚, 𝑬𝑻𝑯 𝑺𝑫𝑲𝒔, 𝑳2 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔, 𝒂𝒏𝒅 𝑫𝑬𝑩𝑲𝒊𝒕𝒔 𝒕𝒐 𝒑𝒖𝒔𝒉 𝒕𝒉𝒆 𝒍𝒊𝒎𝒊𝒕𝒔 𝒐𝒇 𝒅𝑨𝒑𝒑 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆.
-
-🚀 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒕𝒉𝒆 𝒏𝒆𝒙𝒕 𝒈𝒆𝒏𝒆𝒓𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝒄𝒆𝒏𝒕𝒓𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏-𝒓𝒆𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑼𝑰/𝑼𝑿.
+<table >
+    <td >
+      💻 𝑺𝒆𝒂𝒔𝒐𝒏𝒆𝒅 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗<br>
+      𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒂𝒕 𝒕𝒉𝒆 𝒆𝒅𝒈𝒆 𝒐𝒇 𝑾𝒆𝒃3<br>
+      🛠 𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙯𝙞𝙣𝙜 𝙞𝙣 𝙨𝙢𝙖𝙧𝙩 𝙘𝙤𝙣𝙩𝙧𝙖𝙘𝙩 𝙞𝙣𝙩𝙚𝙜𝙧𝙖𝙩𝙞𝙤𝙣<br>
+      ⚡ 𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝑺𝒐𝒍𝒊𝒅𝒊𝒕𝒚, 𝑬𝑻𝑯 𝑺𝑫𝑲𝒔<br>
+      🚀 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒕𝒉𝒆 𝒏𝒆𝒙𝒕 𝒈𝒆𝒏𝒆𝒓𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝒄𝒆𝒏𝒕𝒓𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏-𝒓𝒆𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑼𝑰/𝑼𝑿
+    </td>
+    <td >
+      <img src="https://raw.githubusercontent.com/andrey-hauryk/andrey-hauryk/refs/heads/main/assets/pink-panther.gif" alt="Pink Panther" style="max-width: 100%; border: none;">
+    </td>
+</table>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -34,8 +42,14 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
+
+> "The only way to do great work is to love what you do." – Steve Jobs
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Andrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrey-hauryk&show_icons=true&theme=dracula)
+
