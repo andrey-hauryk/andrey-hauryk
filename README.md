@@ -1,7 +1,34 @@
-# 𝙷𝙴𝙻𝙻𝙾 𝙸'𝙼 𝙰𝙽𝙳𝚁𝙴𝚈 𝙷𝙰𝚄𝚁𝚈𝙺
-[![](https://img.shields.io/badge/-@andreyhauryk-%23000000?style=flat-square&logo=github)](https://github.com/andrey-hauryk)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=andreyhauryk.com&url=https%3A%2F%2Fandreyhauryk.com)](https://andreyhauryk.com)
-[![](https://img.shields.io/badge/-@andreyhauryk-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/andreyhauryk/)
+# Hello I'm Andrey Hauryk
+<p align="center">
+  <a href="https://github.com/andrey-hauryk"><img 
+      src="https://img.shields.io/badge/-@andreyhauryk-%23D1D5DB?style=flat-square&logo=github&logoColor=white&color=333333&labelColor=222222"
+      alt="GitHub Badge"  
+      height="22" 
+    />
+  </a>
+  <a href="./">
+    <img 
+      src="https://img.shields.io/badge/-andreyhauryk.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"
+      alt="Website Badge" 
+      height="22" 
+    />
+  </a><a href="https://andreyhauryk.com">
+    <img 
+      src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"
+      alt="LinkedIn Badge" 
+      height="22" 
+    />
+  </a><a href="mailto:trooman22@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/-trooman22@gmail.com-%23FF0000?style=flat&logo=Gmail&logoColor=white&color=%23FF0000&labelColor=%23D50000"
+      alt="Email Badge"  
+      height="22" 
+    />
+  </a>
+</p>
+
+
+
 
 💻 𝑺𝒆𝒂𝒔𝒐𝒏𝒆𝒅 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗<br>
 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒂𝒕 𝒕𝒉𝒆 𝒆𝒅𝒈𝒆 𝒐𝒇 𝑾𝒆𝒃3<br>
@@ -56,21 +83,40 @@
 </p>
 
 
-If you're still here, here's my favorite gif/music video:
 
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
 
 
 https://github.com/Giingu
+
+
+
+## 🔥 Github Stats
+
+<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+
+## My web3 projects
+
+<p align="left">
+    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+</p>
+<p align="left">
+    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+</p>
+
+## 📘 Frontend projects
+
+<p align="left">
+    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+</p>
+<p align="left">
+    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
