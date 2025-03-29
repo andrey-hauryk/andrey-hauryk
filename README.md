@@ -79,14 +79,4 @@
       </p>
     </td>
   </tr>
-
-  <tr>
-    <td colspan="2" align="center">
-      <h2>📊 GitHub Analytics</h2>
-      <a href="https://github.com/andrey-hauryk">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andrey-hauryk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrey-hauryk&layout=compact&langs_count=8&theme=algolia" />
-      </a>
-    </td>
-  </tr>
 </table>
