@@ -4,7 +4,7 @@
       <h1>Hello, I'm Andrey Hauryk! 👋</h1>
       <p>
         <a href="https://github.com/andrey-hauryk"><img src="https://img.shields.io/badge/-@andreyhauryk-%23D1D5DB?style=flat-square&logo=github&logoColor=white&color=333333&labelColor=222222" alt="GitHub Badge" height="22" /></a>
-        <a href="https://andreyhauryk.com"><img src="https://img.shields.io/badge/-andreyhauryk.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge" height="22" /></a>
+        <a href="https://andrey-hauryk.github.io/andrey-hauryk-web-cv/"><img src="https://img.shields.io/badge/-andreyhauryk.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge" height="22" /></a>
         <a href="https://www.linkedin.com/in/andreyhauryk"><img src="https://img.shields.io/badge/-Andrey%20Hauryk-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" height="22" /></a>
         <a href="mailto:trooman22@gmail.com"><img src="https://img.shields.io/badge/-trooman22@gmail.com-%23FF0000?style=flat&logo=Gmail&logoColor=white&color=%23FF0000&labelColor=%23D50000" alt="Email Badge" height="22" /></a>
       </p>
