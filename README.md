@@ -101,12 +101,12 @@
 	      <a href="https://github.com/YourUsername/SmartContractApp">
 	        <img 
 						width="49%"
-						src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=SmartContractApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true"
+						src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=SmartContractApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false"
 					/></a>
 	      <a href="https://github.com/YourUsername/BlockchainDApp">
 	        <img 
 						width="50%" 
-						src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=BlockchainDApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" 
+						src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrey-hauryk&repo=ticket-nft-marketplace&theme=transparent&bg_color=&title_color=F85D7F&icon_color=&hide_border=false" 
 				/></a>
 	    </p>
 	  </td>
@@ -118,7 +118,7 @@
 	        <img 
 						alt="All Repositories" 
 						title="All Repositories" 
-						src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" 
+						src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-1E90FF?style=for-the-badge&logoColor=white&logo=repo" 
 					/>
 	      </a>
 	    </p>
