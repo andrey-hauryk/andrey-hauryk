@@ -2,26 +2,26 @@
   <tr>
     <td colspan="2" align="center">
       <h1>Hello, I'm Andrey Hauryk!
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
       </h1>
       <p>
         <a href="https://andrey-hauryk.github.io/andrey-hauryk-web-cv/">
           <img 
             src="https://img.shields.io/badge/-Web%20CV-3423A6?style=flat&logo=Google-Chrome&logoColor=white" 
             alt="Website Badge" 
-            height="25" 
+            height="22" 
         /></a>
         <a href="https://www.linkedin.com/in/hauryk-andrey/">
           <img 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
             alt="LinkedIn Badge" 
-            height="25" 
+            height="22" 
           /></a>
         <a href="mailto:hauryk.andrey@gmail.com">
           <img 
           src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" 
           alt="Email Badge" 
-          height="25" 
+          height="22" 
         /></a>
       </p>
     </td>
@@ -49,7 +49,6 @@
       </details>
     </td>
 	</tr>
-	
   <tr>
 	  <td colspan="2">
 	    <h2>My Tech Stack</h2>
@@ -95,7 +94,6 @@
 	    </p>
 	  </td>
 	</tr>
-
  <tr>
 	  <td>
 	    <h2>My Projects</h2>
@@ -113,20 +111,17 @@
 	    </p>
 	  </td>
 	</tr>
-
-
-<tr>
-  <td>
-    <p align="left">
-      <a href="https://github.com/andrey-hauryk?tab=repositories">
-        <img 
-					alt="All Repositories" 
-					title="All Repositories" 
-					src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" 
-				/>
-      </a>
-    </p>
-  </td>
-</tr>
-
+	<tr>
+	  <td>
+	    <p align="left">
+	      <a href="https://github.com/andrey-hauryk?tab=repositories">
+	        <img 
+						alt="All Repositories" 
+						title="All Repositories" 
+						src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" 
+					/>
+	      </a>
+	    </p>
+	  </td>
+	</tr>
 </table>
