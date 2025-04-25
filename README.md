@@ -2,7 +2,7 @@
   <tr>
     <td colspan="2" align="center">
       <h1>Hello, I'm Andrey Hauryk!
-              <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
       </h1>
       <p>
         <a href="https://andrey-hauryk.github.io/andrey-hauryk-web-cv/">
@@ -11,13 +11,13 @@
             alt="Website Badge" 
             height="25" 
         /></a>
-        <a href="https://www.linkedin.com/in/andreyhauryk">
+        <a href="https://www.linkedin.com/in/hauryk-andrey/">
           <img 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
             alt="LinkedIn Badge" 
             height="25" 
           /></a>
-        <a href="mailto:trooman22@gmail.com">
+        <a href="mailto:hauryk.andrey@gmail.com">
           <img 
           src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" 
           alt="Email Badge" 
