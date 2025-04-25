@@ -98,27 +98,24 @@
 
 
   <tr>
-    <td>
-      <h3>🌐 Web3 Projects</h3>
-      <p>
-        <a href="https://github.com/Enhanced-TTVDropBot">
-          <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
-        </a>
-        <a href="https://github.com/Giingu/DiscordPlus">
-          <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
-        </a>
-      </p>
-      <h3>🎨 Frontend Projects</h3>
-      <p>
-        <a href="https://github.com/Enhanced-TTVDropBot">
-          <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
-        </a>
-        <a href="https://github.com/Giingu/DiscordPlus">
-          <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
-        </a>
-      </p>
-    </td>
-  </tr>
+	  <td>
+	    <h2>My Projects</h2>
+	    <p>
+				<!--Project deployed-->
+	      <a href="https://github.com/andrey-hauryk/ticket-nft-marketplace">
+	        <img 
+						src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrey-hauryk&repo=ticket-nft-marketplace&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true"
+					/>
+	      </a>
+				<!--Project Repo-->
+				<a href="https://github.com/andrey-hauryk/ticket-nft-marketplace">
+	        <img 
+						src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrey-hauryk&repo=ticket-nft-marketplace&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true"
+					/>
+	      </a>
+	    </p>
+	  </td>
+	</tr>
 
   <tr>
     <td>
