@@ -74,7 +74,7 @@
 	    </p>
 	  </td>
 	</tr>
- <tr>
+<!--  <tr>
 	  <td>
 	    <h2>My Projects</h2>
 	    <p>
@@ -90,7 +90,7 @@
 				/></a>
 	    </p>
 	  </td>
-	</tr>
+	</tr> -->
 	<tr>
 	  <td>
 	    <p align="left">
